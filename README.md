@@ -1,7 +1,7 @@
 # tugas-nodejs01
 
-moduleBiodata.js file for server
-./module/module.biodata.js file for data
+1. moduleBiodata.js file for server
+2. ./module/module.biodata.js file for data
 
 # how to run
 
