@@ -1,9 +1,9 @@
 exports.showBiodata = function(){
     let data = {
-        Nama : "Tri Ramdhani",
-        TempatLahir : 'Ciamis',
-        TanggalLahir : '21 November 2001',
-        Alamat : 'Majalengka, Jawa Barat'
+        Nama : "Maman Budiman",
+        TempatLahir : 'Cianjur',
+        TanggalLahir : '8 Agustus 2000',
+        Alamat : 'Jl. Neptunus No. 90.'
     }
     return data
 }
